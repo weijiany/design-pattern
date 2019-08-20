@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe0aba14-b5bb-458c-8366-ec04f6e03569" name="Default" comment="" />
+    <list default="true" id="fe0aba14-b5bb-458c-8366-ec04f6e03569" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/creatopnal-pattern/build-pattern/src/two/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creatopnal-pattern/build-pattern/src/two/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creatopnal-pattern/build-pattern/src/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/creatopnal-pattern/build-pattern/src/one/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creatopnal-pattern/build-pattern/src/ComputerBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/creatopnal-pattern/build-pattern/src/one/ComputerBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creatopnal-pattern/build-pattern/src/ComputerDirector.java" beforeDir="false" afterPath="$PROJECT_DIR$/creatopnal-pattern/build-pattern/src/one/ComputerDirector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creatopnal-pattern/build-pattern/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/creatopnal-pattern/build-pattern/src/one/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creatopnal-pattern/build-pattern/src/X201.java" beforeDir="false" afterPath="$PROJECT_DIR$/creatopnal-pattern/build-pattern/src/one/X201.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creatopnal-pattern/build-pattern/src/X201Builder.java" beforeDir="false" afterPath="$PROJECT_DIR$/creatopnal-pattern/build-pattern/src/one/X201Builder.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,19 +25,33 @@
     <option name="myElementSize" value="206" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="design-pattern" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/behavioral-pattern/chain-of-responsibility-pattern/src/Test.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/creatopnal-pattern/build-pattern/src/two/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="306">
+              <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+              <folding>
+                <element signature="e#120#121#0" expanded="true" />
+                <element signature="e#156#157#0" expanded="true" />
+                <element signature="e#575#576#0" expanded="true" />
+                <element signature="e#617#618#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/creatopnal-pattern/build-pattern/src/two/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -54,9 +78,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/behavioral-pattern/visitor-pattern/src/Visitor.java" />
-        <option value="$PROJECT_DIR$/behavioral-pattern/visitor-pattern/src/ConcreteElement2.java" />
-        <option value="$PROJECT_DIR$/behavioral-pattern/visitor-pattern/src/ConcreteVisitor.java" />
         <option value="$PROJECT_DIR$/behavioral-pattern/visitor-pattern/src/ObjectStructure.java" />
         <option value="$PROJECT_DIR$/behavioral-pattern/visitor-pattern/src/Test.java" />
         <option value="$PROJECT_DIR$/behavioral-pattern/state-pattern/状态模式.md" />
@@ -105,22 +126,16 @@
         <option value="$PROJECT_DIR$/jdbc-demo/src/Util.java" />
         <option value="$PROJECT_DIR$/jdbc-demo/src/Coordinator.java" />
         <option value="$PROJECT_DIR$/jdbc-demo/src/Main.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/thriftCompiler.xml" />
+        <option value="$PROJECT_DIR$/behavioral-pattern/iterator-pattern/src/Test.java" />
+        <option value="$PROJECT_DIR$/creatopnal-pattern/build-pattern/src/two/Person.java" />
+        <option value="$PROJECT_DIR$/creatopnal-pattern/build-pattern/src/two/Test.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="978" />
-    <option name="height" value="1050" />
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="1027" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -129,7 +144,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -146,24 +160,39 @@
             <path>
               <item name="design-pattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="behavioral-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="chain-of-responsibility-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="creatopnal-pattern" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="design-pattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="behavioral-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="chain-of-responsibility-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="creatopnal-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="build-pattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design-pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="creatopnal-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="build-pattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design-pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="creatopnal-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="build-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="two" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/springmvc-text/design-pattern/behavioral-pattern/memento-pattern/src/Test.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -199,7 +228,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Test (1)">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="down.Main" />
       <module name="demo" />
@@ -214,9 +243,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="two.Test" />
+      <module name="build-pattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="two.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test" />
       <module name="chain-of-responsibility-pattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.Test" />
+      <module name="build-pattern" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -246,6 +297,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
@@ -278,26 +331,29 @@
       <workItem from="1546914388074" duration="14577000" />
       <workItem from="1547004014564" duration="6654000" />
       <workItem from="1565352888153" duration="47000" />
+      <workItem from="1565432064546" duration="369000" />
+      <workItem from="1566276295311" duration="1231000" />
+      <workItem from="1566298321867" duration="822000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68072000" />
+    <option name="totallyTimeSpent" value="70494000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4988864" visible="true" weight="0.18131869" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4988864" visible="true" weight="0.18681319" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" sideWeight="0.5011136" side_tool="true" weight="0.18967828" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30482456" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956687" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30414313" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.43867245" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -308,7 +364,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32756132" />
       <window_info anchor="bottom" id="JProfiler" order="12" />
-      <window_info anchor="right" id="Maven" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -319,6 +375,7 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3297587" />
+      <window_info anchor="right" id="Maven" order="10" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -345,27 +402,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/jre/lib/rt.jar!/com/sun/java/util/jar/pack/PackageReader.class" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/jre/lib/rt.jar!/sun/misc/ObjectInputFilter.class" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/io/BufferedInputStream.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/io/FilterInputStream.java" />
-    <entry file="file://$PROJECT_DIR$/study/demo/src/decorator_pattern/Beverage.java" />
-    <entry file="file://$PROJECT_DIR$/study/demo/src/decorator_pattern/DarkRoast.java" />
-    <entry file="file://$PROJECT_DIR$/study/demo/src/decorator_pattern/Mocha.java" />
-    <entry file="file://$PROJECT_DIR$/study/demo/src/decorator_pattern/Main.java" />
-    <entry file="file://$PROJECT_DIR$/study/demo/src/decorator_pattern/CondimentDecorator.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/net/URL.java" />
-    <entry file="file://$PROJECT_DIR$/study/demo/src/down/FileDownLoad.java" />
-    <entry file="file://$PROJECT_DIR$/study/demo/src/down/My12306.java" />
-    <entry file="file://$PROJECT_DIR$/study/demo/src/down/Food.java" />
-    <entry file="file://$PROJECT_DIR$/study/demo/src/down/Producer.java" />
-    <entry file="file://$PROJECT_DIR$/study/demo/src/down/Consumer.java" />
-    <entry file="file://$PROJECT_DIR$/study/demo/src/down/SyncContainer.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Comparator.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/PriorityQueue.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/ArrayDeque.java" />
-    <entry file="file://$PROJECT_DIR$/study/demo/src/down/Alone.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/stream/StreamSupport.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/String.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Integer.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/io/PrintStream.java" />
@@ -404,7 +440,414 @@
     <entry file="file://$PROJECT_DIR$/behavioral-pattern/chain-of-responsibility-pattern/src/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/behavioral-pattern/command-pattern/命令模式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/behavioral-pattern/state-pattern/src/TV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/behavioral-pattern/state-pattern/src/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/behavioral-pattern/state-pattern/状态模式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/behavioral-pattern/mediator-pattern/中介模式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="18">
+            <caret line="1" selection-start-line="1" selection-end-line="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/behavioral-pattern/iterator-pattern/迭代器模式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="336">
+            <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/openjdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/ImmutableCollections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="556">
+          <caret line="251" column="21" selection-start-line="251" selection-start-column="18" selection-end-line="251" selection-end-column="21" />
+          <folding>
+            <element signature="e#5533#5534#0" expanded="true" />
+            <element signature="e#5592#5593#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/openjdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="790" column="24" lean-forward="true" selection-start-line="790" selection-start-column="24" selection-end-line="790" selection-end-column="24" />
+          <folding>
+            <element signature="e#36780#36781#0" expanded="true" />
+            <element signature="e#36835#36836#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/openjdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="1006" column="26" selection-start-line="1006" selection-start-column="20" selection-end-line="1006" selection-end-column="26" />
+          <folding>
+            <element signature="docComment;class#ArrayList#0" />
+            <element signature="e#5621#5693#0" />
+            <element signature="e#5757#5957#0" />
+            <element signature="e#6037#6356#0" />
+            <element signature="e#6445#6549#0" />
+            <element signature="e#6577#6830#0" />
+            <element signature="e#6577#7229#0" />
+            <element signature="e#6908#6979#1" />
+            <element signature="e#7011#7072#1" />
+            <element signature="e#7078#7223#1" />
+            <element signature="e#7235#7311#0" />
+            <element signature="e#7410#7731#0" />
+            <element signature="e#7410#8278#0" />
+            <element signature="e#7863#8164#1" />
+            <element signature="e#7877#7941#0" />
+            <element signature="e#8170#8272#1" />
+            <element signature="e#8284#8498#0" />
+            <element signature="e#8284#8728#0" />
+            <element signature="e#8589#8722#1" />
+            <element signature="e#8734#9004#0" />
+            <element signature="e#8734#9292#0" />
+            <element signature="e#9220#9286#1" />
+            <element signature="e#9298#9548#0" />
+            <element signature="e#9623#9901#0" />
+            <element signature="e#9623#10078#0" />
+            <element signature="e#10152#10571#0" />
+            <element signature="e#10152#11192#0" />
+            <element signature="e#10804#11068#1" />
+            <element signature="e#11198#11445#0" />
+            <element signature="e#11451#11572#0" />
+            <element signature="e#11629#11772#0" />
+            <element signature="e#11841#12234#0" />
+            <element signature="e#12318#12622#0" />
+            <element signature="e#12710#13166#0" />
+            <element signature="e#12817#12975#1" />
+            <element signature="e#12865#12965#1" />
+            <element signature="e#12902#12951#1" />
+            <element signature="e#12981#13141#1" />
+            <element signature="e#13029#13131#1" />
+            <element signature="e#13068#13117#1" />
+            <element signature="e#13172#13476#0" />
+            <element signature="e#13572#14042#0" />
+            <element signature="e#13683#13846#1" />
+            <element signature="e#13736#13836#1" />
+            <element signature="e#13773#13822#1" />
+            <element signature="e#13852#14017#1" />
+            <element signature="e#13905#14007#1" />
+            <element signature="e#13944#13993#1" />
+            <element signature="e#14048#14240#0" />
+            <element signature="e#14048#14619#0" />
+            <element signature="e#14281#14463#0" />
+            <element signature="e#14501#14613#0" />
+            <element signature="e#14625#15202#0" />
+            <element signature="e#15295#16624#0" />
+            <element signature="e#15295#17002#0" />
+            <element signature="e#17282#17540#0" />
+            <element signature="e#17282#17652#0" />
+            <element signature="e#17658#18018#0" />
+            <element signature="e#17658#18210#0" />
+            <element signature="e#18216#18423#0" />
+            <element signature="e#18216#18607#0" />
+            <element signature="e#18613#18814#0" />
+            <element signature="e#18613#18926#0" />
+            <element signature="e#18932#19341#0" />
+            <element signature="e#18932#19787#0" />
+            <element signature="e#19793#20143#0" />
+            <element signature="e#19793#20389#0" />
+            <element signature="e#20395#20427#0" />
+            <element signature="e#20395#21034#0" />
+            <element signature="e#20489#20525#1" />
+            <element signature="e#20561#20598#1" />
+            <element signature="e#20655#20726#0" />
+            <element signature="e#21040#21470#0" />
+            <element signature="e#21164#21232#1" />
+            <element signature="e#21303#21433#1" />
+            <element signature="e#21378#21423#1" />
+            <element signature="e#21476#22187#0" />
+            <element signature="e#21670#22106#1" />
+            <element signature="e#21826#21902#1" />
+            <element signature="e#21943#22096#1" />
+            <element signature="e#22001#22082#1" />
+            <element signature="e#22193#22375#0" />
+            <element signature="e#22301#22369#1" />
+            <element signature="e#22381#22413#0" />
+            <element signature="e#22381#22602#0" />
+            <element signature="e#22608#22993#0" />
+            <element signature="e#22715#22783#1" />
+            <element signature="e#22850#22962#1" />
+            <element signature="e#22999#23632#0" />
+            <element signature="e#22999#24167#0" />
+            <element signature="e#23782#24113#1" />
+            <element signature="e#23811#23940#1" />
+            <element signature="e#23946#24077#1" />
+            <element signature="e#24173#24286#0" />
+            <element signature="e#24173#24523#0" />
+            <element signature="e#24529#24647#0" />
+            <element signature="e#24529#24821#0" />
+            <element signature="e#24827#25518#0" />
+            <element signature="e#24827#25989#0" />
+            <element signature="e#25995#26790#0" />
+            <element signature="e#25995#27518#0" />
+            <element signature="e#27524#28131#0" />
+            <element signature="e#27524#28428#0" />
+            <element signature="e#28226#28343#1" />
+            <element signature="e#28434#28506#0" />
+            <element signature="e#28434#28720#0" />
+            <element signature="e#28726#28792#0" />
+            <element signature="e#28726#28956#0" />
+            <element signature="e#28962#29176#0" />
+            <element signature="e#29283#29360#0" />
+            <element signature="e#29283#29508#0" />
+            <element signature="e#29514#30303#0" />
+            <element signature="e#30410#31313#0" />
+            <element signature="e#31419#32391#0" />
+            <element signature="e#31702#31841#1" />
+            <element signature="e#31875#32017#0" />
+            <element signature="e#32039#32269#0" />
+            <element signature="e#32053#32114#0" />
+            <element signature="e#32278#32364#0" />
+            <element signature="e#32397#32818#0" />
+            <element signature="e#32397#33415#0" />
+            <element signature="e#33243#33297#1" />
+            <element signature="e#33341#33409#1" />
+            <element signature="e#33421#33726#0" />
+            <element signature="e#33421#34616#0" />
+            <element signature="e#34007#34437#1" />
+            <element signature="e#34329#34390#1" />
+            <element signature="e#34458#34514#1" />
+            <element signature="e#34520#34610#1" />
+            <element signature="e#34622#35196#0" />
+            <element signature="e#34622#35323#0" />
+            <element signature="e#35329#35559#0" />
+            <element signature="e#35646#35904#0" />
+            <element signature="e#35939#35940#0" expanded="true" />
+            <element signature="e#35971#35972#0" expanded="true" />
+            <element signature="e#35978#36037#0" />
+            <element signature="e#36885#37339#0" />
+            <element signature="e#37043#37215#0" />
+            <element signature="e#37253#37329#0" />
+            <element signature="e#37349#38042#0" />
+            <element signature="e#37574#38032#1" />
+            <element signature="e#38052#38206#0" />
+            <element signature="e#38218#38281#0" />
+            <element signature="e#38218#39900#0" />
+            <element signature="e#38357#38436#0" />
+            <element signature="e#38678#39131#0" />
+            <element signature="e#39141#39486#0" />
+            <element signature="e#39299#39362#0" />
+            <element signature="e#39400#39476#0" />
+            <element signature="e#39496#39894#0" />
+            <element signature="e#39574#39770#0" />
+            <element signature="e#39808#39884#0" />
+            <element signature="e#39906#41506#0" />
+            <element signature="e#39906#41678#0" />
+            <element signature="e#41684#55853#0" />
+            <element signature="e#41917#41991#0" />
+            <element signature="e#41917#42260#0" />
+            <element signature="e#42270#42337#0" />
+            <element signature="e#42270#42632#0" />
+            <element signature="e#42642#42915#0" />
+            <element signature="e#42925#43096#0" />
+            <element signature="e#43106#43198#0" />
+            <element signature="e#43208#43417#0" />
+            <element signature="e#43427#43666#0" />
+            <element signature="e#43676#43904#0" />
+            <element signature="e#44025#44372#0" />
+            <element signature="e#44729#45098#0" />
+            <element signature="e#45108#45439#0" />
+            <element signature="e#45449#45604#0" />
+            <element signature="e#45614#46049#0" />
+            <element signature="e#46059#46405#0" />
+            <element signature="e#46120#46164#1" />
+            <element signature="e#46204#46249#1" />
+            <element signature="e#46415#46577#0" />
+            <element signature="e#46587#46787#0" />
+            <element signature="e#46797#47005#0" />
+            <element signature="e#47192#51628#0" />
+            <element signature="class#47340:51617" />
+            <element signature="method#next#0;class#47340:51617" />
+            <element signature="method#previous#0;class#47340:51617" />
+            <element signature="method#forEachRemaining#0;class#47340:51617" />
+            <element signature="e#49113#49674#1" />
+            <element signature="method#remove#0;class#47340:51617" />
+            <element signature="e#50098#50313#0" />
+            <element signature="e#50351#50443#0" />
+            <element signature="method#set#0;class#47340:51617" />
+            <element signature="e#50669#50747#0" />
+            <element signature="e#50785#50877#0" />
+            <element signature="method#add#0;class#47340:51617" />
+            <element signature="e#51007#51254#0" />
+            <element signature="e#51292#51384#0" />
+            <element signature="method#checkForComodification#0;class#47340:51617" />
+            <element signature="e#51638#51817#0" />
+            <element signature="e#51827#52003#0" />
+            <element signature="e#52132#52285#0" />
+            <element signature="e#52295#52576#0" />
+            <element signature="e#52400#52543#1" />
+            <element signature="e#52586#55847#0" />
+            <element signature="class#52756:55836" />
+            <element signature="method#getFence#0;class#52756:55836" />
+            <element signature="e#53228#53356#1" />
+            <element signature="method#trySplit#0;class#52756:55836" />
+            <element signature="method#tryAdvance#0;class#52756:55836" />
+            <element signature="e#54051#54413#1" />
+            <element signature="method#forEachRemaining#0;class#52756:55836" />
+            <element signature="e#54800#55471#1" />
+            <element signature="e#54848#54966#1" />
+            <element signature="e#55121#55449#1" />
+            <element signature="e#55171#55331#1" />
+            <element signature="e#55859#55920#0" />
+            <element signature="e#55859#56373#0" />
+            <element signature="e#56379#56904#0" />
+            <element signature="e#57023#57086#0" />
+            <element signature="e#57023#61801#0" />
+            <element signature="e#57161#59060#0" />
+            <element signature="e#59280#59336#0" />
+            <element signature="e#59280#59541#0" />
+            <element signature="e#59551#59852#0" />
+            <element signature="e#59724#59819#1" />
+            <element signature="e#59862#60138#0" />
+            <element signature="e#60148#60686#0" />
+            <element signature="e#60354#60650#1" />
+            <element signature="e#60696#61575#0" />
+            <element signature="e#60970#61508#1" />
+            <element signature="e#61010#61095#1" />
+            <element signature="e#61226#61494#1" />
+            <element signature="e#61268#61404#1" />
+            <element signature="e#62141#62202#0" />
+            <element signature="e#62329#62458#0" />
+            <element signature="e#62329#63801#0" />
+            <element signature="e#62789#62854#0" />
+            <element signature="e#63014#63645#1" />
+            <element signature="e#63651#63795#1" />
+            <element signature="e#63807#63942#0" />
+            <element signature="e#63948#64371#0" />
+            <element signature="e#64377#64386#0" />
+            <element signature="e#64377#64693#0" />
+            <element signature="e#64699#64833#0" />
+            <element signature="e#64732#64752#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/openjdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="65" column="14" selection-start-line="65" selection-start-column="14" selection-end-line="65" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/behavioral-pattern/iterator-pattern/src/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creatopnal-pattern/build-pattern/src/one/X201Builder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creatopnal-pattern/build-pattern/src/one/X201.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creatopnal-pattern/build-pattern/src/one/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creatopnal-pattern/build-pattern/src/one/ComputerDirector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creatopnal-pattern/build-pattern/src/one/ComputerBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creatopnal-pattern/build-pattern/src/one/Computer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creatopnal-pattern/build-pattern/src/two/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+          <folding>
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#575#576#0" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creatopnal-pattern/build-pattern/src/two/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
         </state>
       </provider>
     </entry>

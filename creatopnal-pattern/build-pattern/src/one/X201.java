@@ -1,5 +1,7 @@
+package one;
+
 /**
- * 具体电脑 X201
+ * 具体电脑 one.X201
  */
 public class X201 extends Computer {
 

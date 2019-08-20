@@ -1,3 +1,5 @@
+package one;
+
 /**
  * 电脑抽象类
  */
@@ -25,7 +27,7 @@ public abstract class Computer {
 
     @Override
     public String toString() {
-        return "Computer{" +
+        return "one.Computer{" +
                 "type='" + type + '\'' +
                 ", ram='" + ram + '\'' +
                 '}';
