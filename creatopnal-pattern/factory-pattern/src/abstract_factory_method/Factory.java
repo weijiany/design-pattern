@@ -1,30 +1,31 @@
 package abstract_factory_method;
 
+import java.lang.reflect.InvocationTargetException;
+
 /**
  * 具体工厂方法
  */
-@SuppressWarnings("unchecked")
 public class Factory implements AbstractFactory {
 
     @Override
     public <T extends ProductA> T factoryA(Class<T> c) {
-        ProductA productA = null;
+        T productA = null;
         try {
-            productA = (ProductA) Class.forName(c.getName()).newInstance();
-        } catch (InstantiationException | IllegalAccessException | ClassNotFoundException e) {
+            productA = c.getConstructor().newInstance();
+        } catch (InstantiationException | IllegalAccessException | NoSuchMethodException | InvocationTargetException e) {
             e.printStackTrace();
         }
-        return (T) productA;
+        return  productA;
     }
 
     @Override
     public <T extends ProductB> T factoryB(Class<T> c) {
-        ProductB productB = null;
+        T productB = null;
         try {
-            productB = (ProductB) Class.forName(c.getName()).newInstance();
-        } catch (InstantiationException | IllegalAccessException | ClassNotFoundException e) {
+            productB = c.getConstructor().newInstance();
+        } catch (InstantiationException | IllegalAccessException | NoSuchMethodException | InvocationTargetException e) {
             e.printStackTrace();
         }
-        return (T) productB;
+        return productB;
     }
 }
