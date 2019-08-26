@@ -8,5 +8,5 @@ public interface Creator {
 
     static Product create(Supplier<? extends Product> supplier) {
         return supplier.get();
-    };
+    }
 }
